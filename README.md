@@ -32,6 +32,7 @@ This project is a Python-based course placement and scheduling system designed s
 1. Prepare the input CSV files:
    - `classes.csv` (course information)
    - `priorities.csv` (student preferences and placements)
+Please refer to the csv templates in this repository.
 2. Run the script:
    ```sh
    python main.py
